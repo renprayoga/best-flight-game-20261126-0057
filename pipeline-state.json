@@ -1,0 +1,20 @@
+{
+  "deadline": "2026-11-28T00:57:00Z",
+  "entry_dir": "/home/hatch/workspace/makefun-all/best-flight-game-20261126-0057",
+  "flow": "bundle",
+  "history": [
+    {
+      "at": "2026-11-26T12:00:35+00:00",
+      "note": "bounty discovered",
+      "stage": "discovered"
+    },
+    {
+      "at": "2026-11-26T12:42:46+00:00",
+      "note": "Nusa Sky Courier built + validated: kit check 4 passed/1 expected fail (transcripts), check_entry 9/9, 4 screenshots verified, mission-complete bug fixed + verified (sim score 6386). Repo NOT yet created (browser task needed); bundle+submit by morning coordinator 27 Nov.",
+      "stage": "built"
+    }
+  ],
+  "slug": "best-flight-game-20261126-0057",
+  "stage": "built",
+  "updated_at": "2026-11-26T12:42:46+00:00"
+}
